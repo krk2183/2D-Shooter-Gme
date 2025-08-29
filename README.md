@@ -1,0 +1,1 @@
+This project uses the Python library pygame and creates a mini shooting game with functions such as rounds and score alongside player properties like health given damage and unlockable 'superpowers' that enhance the abilities of the play such as the shooting interval bullet count and the damage given to the enemies by the player
